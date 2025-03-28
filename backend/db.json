@@ -1,0 +1,886 @@
+{
+  "TopSongs": [
+    {
+      "id": "1",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "views": "3.1B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/0wrb4qNKLg/wrb4dDxLbL/size_l.webp"
+    },
+    {
+      "id": "2",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "views": "2.9B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/BZgWoQOK2d/gWoQjXQOK2/size_l.webp"
+    },
+    {
+      "id": "3",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "views": "1.5B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/w4MKPObojg/4MKPGkYObo/size_l.webp"
+    },
+    {
+      "id": "4",
+      "title": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "views": "2.5B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/DwPKOxB3qV/PKOxed263q/size_l.webp"
+    },
+    {
+      "id": "5",
+      "title": "Industry Baby",
+      "artist": "Lil Nas X & Jack Harlow",
+      "views": "1.7B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/7rVW1Rbk56/VW1aNjDnWk/size_l.webp"
+    },
+    {
+      "id": "6",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "views": "1.9B",
+      "audioUrl": "https://soundcloud.com/latest-bollywood-songs/dil-kare-ho-mann-jahaan-atif-aslam?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/Rz4W8vKxD5/4W8e200vbx/size_l.webp"
+    },
+    {
+      "id": "7",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "views": "2.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/Oxd3xP3gVY/d3xzNEp5bg/size_l_1619161205.webp"
+    },
+    {
+      "id": "8",
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "views": "1.6B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzN5Qxgb2/size_l.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Peaches",
+      "artist": "Justin Bieber ft. Daniel Caesar & Giveon",
+      "views": "1.8B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://i1.sndcdn.com/artworks-boUvTeTEft8V0b2G-8spb0A-t500x500.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "views": "1.7B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/koMWQ7BKqL/MWQ48MwB3q/size_l.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "views": "2.3B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/MmqK5pEbwR/qK5pmMdEbw/size_l_1637318611.webp"
+    },
+    {
+      "id": "12",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "views": "1.8B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://cdn-images.dzcdn.net/images/cover/72f18412d9c36fe32cdc460a5e34be80/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Permission to Dance",
+      "artist": "BTS",
+      "views": "1.4B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwrewyQ3p/size_l.webp"
+    },
+    {
+      "id": "14",
+      "title": "Butter",
+      "artist": "BTS",
+      "views": "1.9B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/9En3pqeWXD/n3pqmVG0WX/size_l.webp"
+    },
+    {
+      "id": "15",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "views": "2.4B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/7vKX9qV3mr/size_l.webp"
+    },
+    {
+      "id": "16",
+      "title": "Memories",
+      "artist": "Maroon 5",
+      "views": "1.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Maroon_5_-_Memories.png"
+    },
+    {
+      "id": "17",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "views": "1.1B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "imageUrl": "https://m.media-amazon.com/images/I/81b0JGd-v+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Without You",
+      "artist": "The Kid LAROI",
+      "views": "1.6B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqgo3yQ/Z9bqQ5p1by/size_l.webp"
+    },
+    {
+      "id": "19",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "views": "1.3B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36POvkNbr/size_l.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Astronaut In The Ocean",
+      "artist": "Masked Wolf",
+      "views": "1.2B",
+      "audioUrl": "https://samplelib.com/lib/preview/mp3/sample-7s.mp3",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0JV9yMKo/size_l.webp"
+    }
+  ],
+  "artists": [
+    {
+      "id": "1",
+      "name": "Ed Sheeran",
+      "genre": "Pop",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSC5dHXTqKJqX5YeHlzNtNAXWv2owk3fLLBtUOl_CBvnhBLEZiavi1KVYa-Q-6WSpzxVtgbOVZDdXJqi9M",
+      "topSong": "Shape of You"
+    },
+    {
+      "id": "2",
+      "name": "The Weeknd",
+      "genre": "R&B",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/lJvKa56KDV/JvKa14YmKD/size_l_1718007596.webp",
+      "topSong": "Blinding Lights"
+    },
+    {
+      "id": "3",
+      "name": "Taylor Swift",
+      "genre": "Country/Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/6Zxb2r7b9w/Zxb2paJ39w/size_l_1717409600.webp",
+      "topSong": "Love Story"
+    },
+    {
+      "id": "4",
+      "name": "Adele",
+      "genre": "Soul/Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/ZaP37RKDy7/aP37GRB3Dy/size_l.webp",
+      "topSong": "Halo"
+    },
+    {
+      "id": "7",
+      "name": "Bruno Mars",
+      "genre": "Pop/Funk",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/lJvKa16KDV/JvKa8RxbDV/size_l.jpg",
+      "topSong": "Uptown Funk"
+    },
+    {
+      "id": "8",
+      "name": "Justin Bieber",
+      "genre": "Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/a7LWBzWzXA/7LWBLgNKzX/size_l_1716897460.webp",
+      "topSong": "Peaches"
+    },
+    {
+      "id": "9",
+      "name": "Dua Lipa",
+      "genre": "Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/JD2KJAbOLw/D2KJEvDAbO/size_l_1717588280.webp",
+      "topSong": "Levitating"
+    },
+    {
+      "id": "10",
+      "name": "Harry Styles",
+      "genre": "Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/01A3mar3NQ/1A3mad5e3N/size_l.jpg",
+      "topSong": "Watermelon Sugar"
+    },
+    {
+      "id": "11",
+      "name": "Lil Nas X",
+      "genre": "Hip Hop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ2AT9BzsGUD-YR_HcKYruhFRvX3LgblV9JowFKr7MLEhIX84_oqJvFHn-4CgKBQdi_0xm-isunDhf2QbBc0YulKp8uf0Hd&s=19",
+      "topSong": "Montero (Call Me By Your Name)"
+    },
+    {
+      "id": "12",
+      "name": "Ariana Grande",
+      "genre": "Pop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRbcNHoM1Jy2CH2FPjwZE3cVeiGH9KIguXRpf4BMqpJ5dy9B_B4Yb2yBAaFVPjFuF6qPfK_2G0Zl2S-nB7ryqkbwKP3eo5w&s=19",
+      "topSong": "Positions"
+    },
+    {
+      "id": "13",
+      "name": "Shawn Mendes",
+      "genre": "Pop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS1f7DPQlSCyJHEcsbbZg-MBqbHHiterwXhssKfR_7HlHQOL2DchI__QcFws8lgoCz1VTxusbGfON8qE5zJvJHRKVd4JGwv&s=19",
+      "topSong": "Stitches"
+    },
+    {
+      "id": "14",
+      "name": "Drake",
+      "genre": "Hip Hop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTVDdtTjlofbAeV7jniMWMBK2BBNWpY6gSPQA04yQRyb0i_JgNdsWvQ_AnZlAG3T7vGcNZHnzFVduOBeMa5W9AQqjpgZ5pt&s=19",
+      "topSong": "God's Plan"
+    },
+    {
+      "id": "15",
+      "name": "Rihanna",
+      "genre": "R&B/Pop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcStJ-1IyM6vc0_VhbPZ33JNO1RfeUqiYGvaXVpPUlcjfYjOJgjxRr0HmfVHD6OYLPcKMnmtDHbXyCZVNLuDhrHkAHqzi8cn&s=19",
+      "topSong": "Umbrella"
+    },
+    {
+      "id": "16",
+      "name": "Lady Gaga",
+      "genre": "Pop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQVBLmVqF-1kI4_jS29K1y3swgAbFqo81jYzGr5m7cfj4rlHNGxHVsE_ERO26jtLQ2Wqxh_ZOxO7RhsEK5oM7ElbVlt5K4&s=19",
+      "topSong": "Shallow"
+    },
+    {
+      "id": "17",
+      "name": "Kanye West",
+      "genre": "Hip Hop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/6Zxb2r7b9w/Zxb2pDq39w/size_l_1568028516.webp",
+      "topSong": "Stronger"
+    },
+    {
+      "id": "18",
+      "name": "Kendrick Lamar",
+      "genre": "Hip Hop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ4egcVpjZrDZ7o6XhiGJc13wCjjNRUvTq6Y0OPJPZIBMilJDO9_JL-7A2e3p8RHNsVnzAbFSzY5Crq9gfR7uus9TUuClAx&s=19",
+      "topSong": "HUMBLE."
+    },
+    {
+      "id": "19",
+      "name": "Post Malone",
+      "genre": "Hip Hop/Pop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQFhCqiQvt5Rr5fLWYvCDkgUOZRBAJgUyL75pPy71JJI4rqcfVOx7NprWoyUpL-0DwFEBNTNb1fIPG8rePtdhWQubmNvs02&s=19",
+      "topSong": "Circles"
+    },
+    {
+      "id": "20",
+      "name": "Sia",
+      "genre": "Pop",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/4Z9bqZoKyQ/Z9bq55XbyQ/size_l_1720779818.webp",
+      "topSong": "Chandelier"
+    },
+    {
+      "id": "21",
+      "name": "Maroon 5",
+      "genre": "Pop/Rock",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/w4MKPObojg/4MKP8jAKoj/size_l_1560145787.webp",
+      "topSong": "Memories"
+    },
+    {
+      "id": "22",
+      "name": "Coldplay",
+      "genre": "Rock",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/Rz4W8evbxD/z4W8dB1WxD/size_l_1640244622.webp",
+      "topSong": "Fix You"
+    },
+    {
+      "id": "23",
+      "name": "Imagine Dragons",
+      "genre": "Rock",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/artists/9En3pqeWXD/En3pqG29WX/size_l_1718016495.webp",
+      "topSong": "Believer"
+    }
+  ],
+  "playlist": [
+    {
+      "id": "1",
+      "title": "International New Releases",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/oAJbDElKnL/JbDEDR0lKn/size_l_1732277541.webp",
+      "views": "12.3m",
+      "moods": [
+        "Happy",
+        "Motivation"
+      ],
+      "vibes": [
+        "Party",
+        "Driving"
+      ],
+      "time": [
+        "Monday",
+        "Friday"
+      ],
+      "holiday": [
+        "Christmas",
+        "New Year's Day"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "2",
+      "title": "Big Hitters",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4qNKLg/rb4kVPDXWL/size_l.jpg",
+      "views": "11m",
+      "moods": [
+        "Relax",
+        "Sad"
+      ],
+      "vibes": [
+        "Study&Work",
+        "Sleep"
+      ],
+      "time": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "holiday": [
+        "Halloween",
+        "Easter"
+      ],
+      "genre": "Jazz"
+    },
+    {
+      "id": "3",
+      "title": "Wedding Classics",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAynb02/p1bAyB2Jb0/size_l.webp",
+      "views": "7.5m",
+      "moods": [
+        "Happy",
+        "Motivation"
+      ],
+      "vibes": [
+        "Wedding",
+        "Dance"
+      ],
+      "time": [
+        "Saturday",
+        "Sunday"
+      ],
+      "holiday": [
+        "Valentine's Day"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "4",
+      "title": "Friday Feeling",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqWP1p/4WEk5aBMKP/size_l_1732818038.jpg",
+      "views": "8.5m",
+      "moods": [
+        "Happy"
+      ],
+      "vibes": [
+        "Party",
+        "Yoga"
+      ],
+      "time": [
+        "Friday"
+      ],
+      "holiday": [
+        "Mother's Day"
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": "5",
+      "title": "Focus: Bella Shmurda",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/7rVW1aRWk5/VW1aqxJRWk/size_l.jpg",
+      "views": "3.2m",
+      "moods": [
+        "Relax"
+      ],
+      "vibes": [
+        "Study&Work",
+        "Driving"
+      ],
+      "time": [
+        "Monday",
+        "Thursday"
+      ],
+      "holiday": [
+        "Eid"
+      ],
+      "genre": "Afrobeats"
+    },
+    {
+      "id": "6",
+      "title": "Gaming Soundtracks",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/Rz4W8vKxD5/4W8eReX6bx/size_l.webp",
+      "views": "4.3m",
+      "moods": [
+        "Motivation",
+        "Happy"
+      ],
+      "vibes": [
+        "Games",
+        "Workout"
+      ],
+      "time": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "holiday": [
+        "International Women's Day"
+      ],
+      "genre": "Electronic"
+    },
+    {
+      "id": "7",
+      "title": "Morning Vibes",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/XzVWRyL3dq/VWRvJwMaWd/size_l_1713191641.jpg",
+      "views": "5.6m",
+      "moods": [
+        "Motivation",
+        "Happy"
+      ],
+      "vibes": [
+        "Yoga",
+        "Study&Work"
+      ],
+      "time": [
+        "Monday",
+        "Wednesday"
+      ],
+      "holiday": [
+        "Eid"
+      ],
+      "genre": "Jazz"
+    },
+    {
+      "id": "8",
+      "title": "Weekend Chill",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4qNKLg/rb4kaYr7WL/size_l.jpg",
+      "views": "9.2m",
+      "moods": [
+        "Relax"
+      ],
+      "vibes": [
+        "Sleep",
+        "Trip"
+      ],
+      "time": [
+        "Saturday",
+        "Sunday"
+      ],
+      "holiday": [
+        "Christmas"
+      ],
+      "genre": "Blues"
+    },
+    {
+      "id": "9",
+      "title": "Workout Anthems",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/Z9bqn8D5Ky/size_l.webp",
+      "views": "18.2m",
+      "moods": [
+        "Motivation",
+        "Happy"
+      ],
+      "vibes": [
+        "Workout",
+        "Party"
+      ],
+      "time": [
+        "Wednesday",
+        "Friday"
+      ],
+      "holiday": [
+        "Father's Day"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "10",
+      "title": "Festival Anthems",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/Rz4W8evbxD/z4W8owj93x/size_l.webp",
+      "views": "20.1m",
+      "moods": [
+        "Happy",
+        "Motivation"
+      ],
+      "vibes": [
+        "Party",
+        "Dance"
+      ],
+      "time": [
+        "Friday",
+        "Saturday"
+      ],
+      "holiday": [
+        "Christmas",
+        "New Year's Day"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "11",
+      "title": "Romantic Tunes",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/XYybzrb2gz/ybzg01XmK2/size_l.jpg",
+      "views": "7.8m",
+      "moods": [
+        "Mapenzi"
+      ],
+      "vibes": [
+        "Driving",
+        "Trip"
+      ],
+      "time": [
+        "Thursday",
+        "Friday"
+      ],
+      "holiday": [
+        "Valentine's Day"
+      ],
+      "genre": "R&B"
+    },
+    {
+      "id": "12",
+      "title": "Soulful Sundays",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAynb02/1bAL9R9jW0/size_l.jpg",
+      "views": "6.7m",
+      "moods": [
+        "Relax",
+        "Furaha"
+      ],
+      "vibes": [
+        "Trip",
+        "Driving"
+      ],
+      "time": [
+        "Sunday"
+      ],
+      "holiday": [
+        "Easter"
+      ],
+      "genre": "Blues"
+    },
+    {
+      "id": "13",
+      "title": "Late Night Drives",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/2lV3d1WRgB/lV3dnXyLbR/size_l.webp",
+      "views": "4.9m",
+      "moods": [
+        "Sad",
+        "Mapenzi"
+      ],
+      "vibes": [
+        "Driving"
+      ],
+      "time": [
+        "Saturday",
+        "Sunday"
+      ],
+      "holiday": [
+        "Mother's Day"
+      ],
+      "genre": "R&B"
+    },
+    {
+      "id": "14",
+      "title": "Dance Hits",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/ZaP374RWDy/P37OPMnV3D/size_l_1730577630.webp",
+      "views": "14.5m",
+      "moods": [
+        "Happy",
+        "Motivation"
+      ],
+      "vibes": [
+        "Dance",
+        "Workout"
+      ],
+      "time": [
+        "Wednesday",
+        "Friday"
+      ],
+      "holiday": [
+        "New Year's Day"
+      ],
+      "genre": "Electronic"
+    },
+    {
+      "id": "16",
+      "title": "Retro Vibes",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/dwN398KDPa/N394xNQNKD/size_l.jpg",
+      "views": "5.3m",
+      "moods": [
+        "Nostalgic",
+        "Joyful"
+      ],
+      "vibes": [
+        "Dance",
+        "Party"
+      ],
+      "time": [
+        "Saturday"
+      ],
+      "holiday": [
+        "Thanksgiving"
+      ],
+      "genre": "Disco"
+    },
+    {
+      "id": "17",
+      "title": "Rainy Day Melodies",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/mGjKr1b6zX/jKrradEmK6/size_l.jpg",
+      "views": "3.8m",
+      "moods": [
+        "Calm",
+        "Melancholy"
+      ],
+      "vibes": [
+        "Chill",
+        "Relax"
+      ],
+      "time": [
+        "Rainy Days"
+      ],
+      "holiday": [
+        "Earth Day"
+      ],
+      "genre": "Acoustic"
+    },
+    {
+      "id": "18",
+      "title": "Festival Beats",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/7rVW1Rbk56/rVW1EdpBWk/size_l.webp",
+      "views": "12.9m",
+      "moods": [
+        "Excited",
+        "Cheerful"
+      ],
+      "vibes": [
+        "Party",
+        "Celebration"
+      ],
+      "time": [
+        "Friday",
+        "Saturday"
+      ],
+      "holiday": [
+        "Christmas",
+        "Diwali"
+      ],
+      "genre": "Pop"
+    },
+    {
+      "id": "19",
+      "title": "Study Zone",
+      "image": "https://a10.gaanacdn.com/gn_img/artists/Rz4W8vKxD5/z4W8MML0bx/size_l.jpg",
+      "views": "9.1m",
+      "moods": [
+        "Focused",
+        "Calm"
+      ],
+      "vibes": [
+        "Concentration",
+        "Relax"
+      ],
+      "time": [
+        "Weekdays"
+      ],
+      "holiday": [
+        "None"
+      ],
+      "genre": "Lo-fi"
+    },
+    {
+      "id": "20",
+      "title": "Road Trip Classics",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/NOXWVgbkqL/XWVRpy2ZWk/size_l.webp",
+      "views": "10.6m",
+      "moods": [
+        "Adventurous",
+        "Joyful"
+      ],
+      "vibes": [
+        "Driving",
+        "Travel"
+      ],
+      "time": [
+        "Anytime"
+      ],
+      "holiday": [
+        "Independence Day"
+      ],
+      "genre": "Rock"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "title": "Pop",
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/004/190/410/large_2x/pop-music-vintage-3d-lettering-retro-bold-font-typeface-pop-art-stylized-text-old-school-style-letters-90s-80s-poster-banner-blue-halftone-comics-rays-color-background-vector.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Soul",
+      "imageUrl": "https://t4.ftcdn.net/jpg/05/73/95/73/360_F_573957306_UqvnAjLeocb3jQVJASZIZ4giddN52SC1.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Electronic",
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/media/dj-table-biz-billboard-1548.jpg?w=1024"
+    },
+    {
+      "id": "4",
+      "title": "Rock",
+      "imageUrl": "https://p0.pikist.com/photos/579/952/artist-rock-n-roll-guitar-rock-music-concert-live-show-musicians-swedish.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Country",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/DwPKOBbqVZ/PKOkojd0Kq/size_l.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Reggae",
+      "imageUrl": "https://a10.gaanacdn.com/gn_img/albums/2lV3d1WRgB/V3dZPZlEbR/size_l.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Gospel",
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.lcMr1tbvxx_uvUC5ptJGaQHaFj&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "8",
+      "title": "World Music/Folklore",
+      "imageUrl": "https://i.pinimg.com/originals/a0/ec/fd/a0ecfd95ba66f027f4f74a9f8d620c0b.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Traditional",
+      "imageUrl": "https://img.rasset.ie/00143cff-1500.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Highlife",
+      "imageUrl": "https://media.afrocharts.com/file/afrocharts-media/uploads/genres/hil.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Jazz",
+      "imageUrl": "http://cdn-images.audioaddict.com/d/7/7/1/7/4/d77174f36b413f4c45ec08609325d11d.png"
+    },
+    {
+      "id": "12",
+      "title": "New Age",
+      "imageUrl": "https://cdn.slidesharecdn.com/ss_thumbnails/newagemusic-150424214106-conversion-gate02-thumbnail-4.jpg?cb=1429929743"
+    },
+    {
+      "id": "13",
+      "title": "Afrobeats",
+      "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.wHUzmzk5HUaxfNkvRNHmfgHaE4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "14",
+      "title": "Afropop",
+      "imageUrl": "https://assets.audiomack.com/afro-pop-hits/adf0f65f750f107b0f7e3015a486ba858e55ee8c8fd0bffb04b4191bb923062c.jpeg?width=1000&height=1000&max=true"
+    },
+    {
+      "id": "15",
+      "title": "R&B",
+      "imageUrl": "http://il3.picdn.net/shutterstock/videos/3888443/thumb/2.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Hip Hop & Rap",
+      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.9iOl4t7y9Q6H16NCrlTqaAHaEo&pid=Api&P=0&h=180"
+    }
+  ],
+  "songs": [
+    {
+      "id": "1",
+      "title": "Dil Dil Dil Ae Dil",
+      "artist": "Naseebo Lal",
+      "time": "06:14"
+    },
+    {
+      "id": "2",
+      "title": "DIL DIL DIL",
+      "artist": "Kumar Pritam",
+      "time": "04:18"
+    },
+    {
+      "id": "3",
+      "title": "Dil Se Dil Se",
+      "artist": "Alka Yagnik",
+      "time": "05:19"
+    }
+  ],
+  "users": [
+    {
+      "id": "52e1",
+      "email": "jalapathibenila333@gmail.com",
+      "phone": "9390965081",
+      "password": "1234",
+      "username": "benny",
+      "gender": "Male"
+    },
+    {
+      "id": "9ae7",
+      "email": "shajiashireen_mohammad@srmap.edu.in",
+      "phone": "9398756784",
+      "password": "7hills",
+      "username": "Shajia",
+      "gender": "Male"
+    },
+    {
+      "id": "a263",
+      "email": "vaishnavi_polionbonia@srmap.edu.in",
+      "phone": "5697402997",
+      "password": "1234",
+      "username": "Vaish",
+      "gender": "Male"
+    },
+    {
+      "id": "8a3f",
+      "email": "adityasodisetti@gmail.com",
+      "phone": "9573779644",
+      "password": "1234",
+      "username": "Aditya_raj",
+      "gender": "Male"
+    },
+    {
+      "id": "58a5",
+      "email": "rastogishrey01@gmail.com",
+      "phone": "6306441496",
+      "password": "hello",
+      "username": "Shrey",
+      "gender": "Male"
+    },
+    {
+      "id": "6d26",
+      "email": "rastogishrey03@gmail.com",
+      "phone": "6306441496",
+      "password": "hello",
+      "username": "Shrey",
+      "gender": "Male"
+    },
+    {
+      "id": "557c",
+      "email": "xyz@gmail.com",
+      "phone": "143256214638",
+      "password": "0987",
+      "username": "XYZ",
+      "gender": "Male"
+    }
+  ]
+}
